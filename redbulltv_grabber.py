@@ -11,8 +11,10 @@ for element in items:
     label = ''
     if element.find('.//label') is not None:
         label = element.find('.//label').text
-        print(label)
+    label2 = ''
+    if element.find('.//label2') is not None:
+        label2 = element.find('.//label2').text
     summary = ''
     if element.find('.//summary') is not None:
         summary = element.find('.//summary').text
-        print(summary)
+    print(label + ' - ' + label2)
