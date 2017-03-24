@@ -7,8 +7,12 @@ response = urllib.request.urlopen(request)
 xml = ET.parse(response)
 items = xml.findall('.//twoLineMenuItem')
 
+w = xmltv.Writer()
+
 for element in items:
-    label = ''
+    programme = {"channel":'hls.redbulltv', "title":[], "sub-title":[], "desc":[], "start":'', "stop":''}
+
+    label = u''
     if element.find('.//label') is not None:
         label = element.find('.//label').text
     label2 = ''
@@ -18,7 +22,7 @@ for element in items:
     if element.find('.//rightLabel') is not None:
         start = element.find('.//rightLabel').text
         if start is not None:
-            start = datetime.utcfromtimestamp(float(start))#.strftime('%Y%m%d%H%M%S%z')
+            start = datetime.utcfromtimestamp(float(start))
         else:
             start = datetime.utcnow()#.strftime('%Y%m%d%H%M%S%z')
 
@@ -42,7 +46,15 @@ for element in items:
     summary = ''
     if element.find('.//summary') is not None:
         summary = element.find('.//summary').text
-   # print(duration)
-    print(label + ' - ' + label2)
-    print(start)
-    print(end)
+
+    programme["title"] = [(label, u'')]
+    programme["sub-title"] = [(label2, u'')]
+    programme["desc"] = [(summary, u'')]
+    programme["start"] = start.strftime('%Y%m%d%H%M%S%z')
+    programme["stop"] = end.strftime('%Y%m%d%H%M%S%z')
+
+    # print(programme)
+
+    w.addProgramme(programme)
+
+w.write('redbull.xml', pretty_print=True)
