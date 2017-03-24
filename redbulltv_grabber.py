@@ -1,4 +1,4 @@
-import sys, urllib.request, xmltv, xml.etree.ElementTree as ET
+import sys, re, urllib.request, xmltv, xml.etree.ElementTree as ET
 from datetime import datetime, date, time, timedelta
 
 BASE_URL = "https://appletv-v2.redbull.tv/views/tv"
@@ -18,9 +18,31 @@ for element in items:
     if element.find('.//rightLabel') is not None:
         start = element.find('.//rightLabel').text
         if start is not None:
-            start = datetime.utcfromtimestamp(float(start)).strftime('%Y%m%d%H%M%S%z')
+            start = datetime.utcfromtimestamp(float(start))#.strftime('%Y%m%d%H%M%S%z')
+        else:
+            start = datetime.utcnow()#.strftime('%Y%m%d%H%M%S%z')
+
+    # Set end has start to calculate duration from
+    end = ''
+    if element.find('.//footnote') is not None:
+        end = element.find('.//footnote').text
+        if end is not None:
+            duration = end.replace('Duration: ', '')
+            duration = duration.split(',')
+            totalDuration = start
+            for i in duration:
+                if 'hour' in i:
+                    totalDuration = totalDuration + timedelta(hours=int(re.sub(r' hours?', "",i)))
+                elif 'minute' in i:
+                    totalDuration = totalDuration + timedelta(minutes=int(re.sub(r' minutes?', "", i)))
+                elif 'second' in i:
+                    totalDuration = totalDuration + timedelta(seconds=int(re.sub(r' seconds?', "", i)))
+            end = totalDuration
+
     summary = ''
     if element.find('.//summary') is not None:
         summary = element.find('.//summary').text
+   # print(duration)
     print(label + ' - ' + label2)
     print(start)
+    print(end)
