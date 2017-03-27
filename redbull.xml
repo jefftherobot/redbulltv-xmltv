@@ -1,491 +1,543 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv>
-  <channel id="hls.redbulltv">
-    <display-name>redbulltv</display-name>
-  </channel>
-  <programme channel="hls.redbulltv" start="20170324200531" stop="20170324214404">
-    <title>Cerro Torre</title>
-    <sub-title>A Snowball's Chance in Hell</sub-title>
-    <desc>David Lama and Peter Ortner set out to free climb a route once said to be the most difficult in the world.</desc>
+  <programme channel="hls.redbulltv" start="20170327152451" stop="">
+    <title>Pika Booya</title>
+    <sub-title>Brothers on the Run S1 E2</sub-title>
+    <desc>The guys surf frozen waves in Homer before going to the Pika glacier for camping and shredding.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170324203416" stop="20170324204254">
-    <title>David Since 2012</title>
-    <sub-title>Cerro Torre: Extra</sub-title>
-    <desc>David Lama's quest for the impossible doesn't end at the summit of the Cerro Torre. He just keeps going.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324204241" stop="20170324210618">
-    <title>Bounced</title>
-    <sub-title>The Break Boys  S1 E1</sub-title>
-    <desc>The Skill Brat Renegades make their highly anticipated return to breakdancing after a three-year sabbatical.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324210707" stop="20170324215107">
-    <title>Unknown</title>
-    <sub-title>URBEX: Enter At Your Own Risk S1 E6</sub-title>
-    <desc>Many consider the present to be a golden age of urbex. But what new adventures does the future of urbex hold?</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324215316" stop="20170324220011">
-    <title>The Call to Adventure</title>
-    <sub-title>Cultivation S1 E1</sub-title>
-    <desc>Darryl "Snake Eyez" Lewis talks about growing up in Compton, winning tournaments, and his favorite character.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324220011" stop="20170324222512">
-    <title>Beast of the Southern Wild</title>
-    <sub-title>Life At The Extreme S1 E26</sub-title>
-    <desc>Among the few people to explore the Southern Ocean, the crews help gather data for scientific research.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324222602" stop="20170324223737">
-    <title>Victory Lap</title>
-    <sub-title>Who is JOB S4 E10</sub-title>
-    <desc>From Supsquatch to Sand Skis to Fire Barrels, Jamie looks back at all the classic moments from this season.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324223727" stop="20170324230317">
-    <title>F1 Show Run Salt Challenge</title>
-    <sub-title>Red Bull Show Run 2012</sub-title>
-    <desc>Salt flies in northern Argentina as the team's F1 car rips across the salt flats of Salinas Grandes.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324230407" stop="20170324231158">
-    <title>Adventures in OZ</title>
-    <sub-title>Sheckler Sessions S3 E4</sub-title>
-    <desc>Robbie Maddison takes Ryan out for some dirtbike racing and wakesurfing as the Australia trip moves to Syndey.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324231159" stop="20170324231957">
-    <title>Crankworx Whistler</title>
-    <sub-title>Life Behind Bars S1 E10</sub-title>
-    <desc>Brandon is among the world’s top slopestyle riders at Whistler for the biggest Crankworx event of the year.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324231942" stop="20170324233318">
-    <title>Running in Two Worlds</title>
-    <sub-title>A Story of Two Ultrarunners</sub-title>
-    <desc>Two ultramarathoners from very different cultures come together to train for the Wings for Life World Run.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324233423" stop="20170324233853">
-    <title>When I Go: Music Video</title>
-    <sub-title>Let's Be Frank: BTS</sub-title>
-    <desc>Ben Harper's bluesy, brooding song "When I Go" from the film's soundtrack gets a gritty video accompaniment.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170324233854" stop="20170325000019">
-    <title>May the Darts be With You</title>
-    <sub-title>Drake's Passage S1 E5</sub-title>
-    <desc>Drake meets an expert darts player, a fixed-bike customizer, and judges an X-Fighters event while in London.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325000113" stop="20170325000613">
-    <title>Special: Red Bull Mind Gamers</title>
-    <sub-title>BULLETPOINTS S2 E71</sub-title>
-    <desc>What is Red Bull Mind Gamers? In this special episode, gaming director Konstatin Mitgutsch reveals all.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325000643" stop="20170325001453">
-    <title>Back to His Roots</title>
-    <sub-title>Max Verstappen: The Next Generation S1 E5</sub-title>
-    <desc>Max takes time off from his F1 preparation to get back to his roots: go-karting.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325001454" stop="20170325002850">
-    <title>Harlem River Drive</title>
-    <sub-title>The Note S1 E2</sub-title>
-    <desc>Eddie Palmieri brought a distinct brand of funk and activism to New York City in an era of revolution.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325002928" stop="20170325005126">
-    <title>Spring Broken</title>
-    <sub-title>McMorris &amp; McMorris S1 E2</sub-title>
-    <desc>After Mark competes at the US Open, the crew takes an unforgettable spring break vacation in Cancun, Mexico.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325005212" stop="20170325010441">
-    <title>Man vs. Nature</title>
-    <sub-title>Worldies S1 E8</sub-title>
-    <desc>This top five countdown honors both Mother Nature's awe-inspiring beauty and incredible destructive power.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325010550" stop="20170325011136">
-    <title>The Science Behind Escape Rooms</title>
-    <sub-title>Red Bull Mind Gamers 2017</sub-title>
-    <desc>Cognitive neuroscientist Carola Salvi explains the unique effects escape rooms have on their participants.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325011136" stop="20170325011404">
-    <title>F1 Show Run in Hyderabad</title>
-    <sub-title>Red Bull Show Run 2015</sub-title>
-    <desc>With no stop in India on the F1 circuit, this show run brings an F1 car in action to India.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325011405" stop="20170325024705">
-    <title>Game Loading</title>
-    <sub-title>Rise of the Indies</sub-title>
-    <desc>Disrupting the big-budget games industry, indie developers have forever impacted the world of video games.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325024449" stop="20170325030138">
-    <title>The Challenge</title>
-    <sub-title>Inside the Fourth Phase  S1 E2</sub-title>
-    <desc>The filmmakers discuss the immense pressure to raise the bar on snowboard films while telling a good story.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325030110" stop="20170325032916">
-    <title>The End</title>
-    <sub-title>Electric Shorts S1 E2</sub-title>
-    <desc>Film composer Clint Mansell introduces five short films about life and death. Unsuitable for under 18s.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325033032" stop="20170325033751">
+  <programme channel="hls.redbulltv" start="20170327152727" stop="">
     <title>Don't Call It #Tumblrwave</title>
     <sub-title>Hashtags S1 E5</sub-title>
     <desc>Microblogging site Tumblr has given a voice to a wide variety of artists in its short history.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325033751" stop="20170325035249">
+  <programme channel="hls.redbulltv" start="20170327153447" stop="">
     <title>F1 Show Run in the Snow</title>
     <sub-title>Red Bull Racing Show Run 2016</sub-title>
     <desc>Scuderia Toro Rosso driver Max Verstappen drives a Formula 1 car around an icy ski hill in Austria.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325035339" stop="20170325040337">
+  <programme channel="hls.redbulltv" start="20170327155104" stop="">
     <title>Ordeal, Death &amp; Rebirth?</title>
     <sub-title>Cultivation S1 E6</sub-title>
     <desc>Snake Eyez looks back at the Capcom Cup 2015 and to the future, with Street Fighter V close to release.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325040308" stop="20170325040808">
-    <title>Special: Red Bull Mind Gamers</title>
-    <sub-title>BULLETPOINTS S2 E71</sub-title>
-    <desc>What is Red Bull Mind Gamers? In this special episode, gaming director Konstatin Mitgutsch reveals all.</desc>
+  <programme channel="hls.redbulltv" start="20170327160032" stop="">
+    <title>Frozen Titans</title>
+    <sub-title>Explorers: Documentaries S3 E1</sub-title>
+    <desc>A story of Will Gadd's obsession with mixed climbing up the frozen 140 meter cave behind Helmcken Falls.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325040808" stop="20170325041626">
-    <title>The Macau Grand Prix</title>
-    <sub-title>Max Verstappen: The Next Generation S1 E4</sub-title>
-    <desc>As his first F1 race approaches, Max trains his body to withstand the rigors of professional driving.</desc>
+  <programme channel="hls.redbulltv" start="20170327165524" stop="">
+    <title>Buzzing the Apple</title>
+    <sub-title>Miles Above S1 E2</sub-title>
+    <desc>The Red Bull Air Force makes a daring wingsuit flight over Manhattan before landing on a barge in the Hudson.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325041627" stop="20170325042831">
-    <title>Wakeboard in Patagonia</title>
-    <sub-title>Writing the New Chapter</sub-title>
-    <desc>Four wakeboarders set out to make history in an attempt to ride the glacier filled waters of Patagonia.</desc>
+  <programme channel="hls.redbulltv" start="20170327170451" stop="">
+    <title>The Windsurfing Movie II</title>
+    <sub-title>New Frontiers of Windsurfing</sub-title>
+    <desc>Pro windsurfer Levi Siver takes a year off the contest circuit to explore new frontiers of windsurfing.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325042952" stop="20170325043646">
-    <title>Tundra Trial</title>
-    <sub-title>Dougie Lampkin</sub-title>
-    <desc>English trials master Dougie Lampkin brings his craft to the enchanting arctic landscape of Northern Finland.</desc>
+  <programme channel="hls.redbulltv" start="20170327180250" stop="">
+    <title>Monday, March 27</title>
+    <sub-title>BULLETPOINTS S2 E73</sub-title>
+    <desc>Meet Markus Keller, aka the Chamäleon, and get to know Austria’s most successful motorbike team.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325043558" stop="20170325045845">
-    <title>The Grind</title>
-    <sub-title>The Break Boys  S1 E2</sub-title>
-    <desc>The guys get serious about practice, but a last-minute job offer sends the group in two different directions.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325045904" stop="20170325050113">
-    <title>Totaled: Escape Rooms</title>
-    <sub-title>Red Bull Mind Gamers 2017</sub-title>
-    <desc>Unlock the numbers behind one of the globe's hottest new trends: the competitive world of escape room games.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325050114" stop="20170325055326">
-    <title>Recap: Ottawa, Canada</title>
-    <sub-title>Red Bull Crashed Ice 2017</sub-title>
-    <desc>The Canadian capital hosts Red Bull Crashed Ice for the first time in the finale of the 2017 season.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325055536" stop="20170325060806">
-    <title>La Vida Loca</title>
-    <sub-title>Worldies S1 E7</sub-title>
-    <desc>Get ready for a dose of Latin flavor with this top five countdown of events from Central and South America.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325060945" stop="20170325073919">
-    <title>Fandom</title>
-    <sub-title>The Fantasy Football Movie</sub-title>
-    <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325074049" stop="20170325074424">
-    <title>Beaten in Lips: Music Video</title>
-    <sub-title>Bear Tooth</sub-title>
-    <desc>Mixing an escapist house party with an anthem for troubled youths yields...explosive...results.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325074411" stop="20170325075251">
-    <title>The Road Back</title>
-    <sub-title>Cultivation S1 E5</sub-title>
-    <desc>Snake Eyez is back home in Los Angeles. Now it's time to see the fruits of his labor at the 2015 Capcom Cup.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325075236" stop="20170325075655">
-    <title>Hold On: Music Video</title>
-    <sub-title>Twin Atlantic</sub-title>
-    <desc>Twin Atlantic paints a picture of young love gone awry and a dramatic race against time for reconciliation.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325075656" stop="20170325080118">
-    <title>Balance</title>
-    <sub-title>Kenny Belaey</sub-title>
-    <desc>Even a trial bike world champion needs all his skill to ride across a slackline 120m high in the French Alps.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325080118" stop="20170325080618">
-    <title>Special: Red Bull Mind Gamers</title>
-    <sub-title>BULLETPOINTS S2 E71</sub-title>
-    <desc>What is Red Bull Mind Gamers? In this special episode, gaming director Konstatin Mitgutsch reveals all.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325080618" stop="20170325081526">
-    <title>Training &amp; Certification</title>
-    <sub-title>Max Verstappen: The Next Generation S1 E2</sub-title>
-    <desc>After meeting his new team, Max heads back behind the wheel to earn his F1 super license.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325081526" stop="20170325083925">
-    <title>Adventure Racing in New Zealand</title>
-    <sub-title>Red Bull Defiance</sub-title>
-    <desc>A two-day adventure race pushes athletes to their limits with a brutal course in a spectacular setting.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325084045" stop="20170325090407">
-    <title>Mentors</title>
-    <sub-title>Focus S1 E6</sub-title>
-    <desc>Mark Webber winds down his F1 career, while Mick Fanning contemplates futures beyond the World Surfing League.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325090501" stop="20170325095209">
-    <title>The Storm</title>
-    <sub-title>The Horn S1 E6</sub-title>
-    <desc>The only thing powerful enough to bring the Air Zermatt team to their knees is the weather.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325095417" stop="20170325100959">
-    <title>In the Balance</title>
-    <sub-title>MacAskill's Imaginate S1 E1</sub-title>
-    <desc>Trials rider and viral video star Danny MacAskill fights injuries to make his most ambitious film project.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325101026" stop="20170325112119">
-    <title>Bouncing Cats</title>
-    <sub-title>The Story of Breakdance Project Uganda</sub-title>
-    <desc>A Ugandan AIDS orphan works to empower his community's children through exposure to b-boy dance culture.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325112239" stop="20170325112633">
-    <title>Hollow Moon (Bad Wolf): Music Video</title>
-    <sub-title>AWOLNATION</sub-title>
-    <desc>In a single shot video, lead singer Aaron Bruno weaves through a mass of people as they grow more animated.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325112633" stop="20170325115231">
-    <title>Through the Heart</title>
-    <sub-title>Motorkite Dreaming S1 E3</sub-title>
-    <desc>Rare gemstones, ancient rituals, and indigenous rock and roll await the crew on this leg of the trip.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325115336" stop="20170325120124">
-    <title>Crossing the Threshold</title>
-    <sub-title>Cultivation S1 E3</sub-title>
-    <desc>Snake Eyez finally arrives in the land of Street Fighter: Japan.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325120124" stop="20170325120624">
-    <title>Special: Red Bull Mind Gamers</title>
-    <sub-title>BULLETPOINTS S2 E71</sub-title>
-    <desc>What is Red Bull Mind Gamers? In this special episode, gaming director Konstatin Mitgutsch reveals all.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325120624" stop="20170325121538">
+  <programme channel="hls.redbulltv" start="20170327180850" stop="">
     <title>Taking Care of Business</title>
     <sub-title>Max Verstappen: The Next Generation S1 E3</sub-title>
     <desc>Before he can jump to the next level, Max must finish the last two races of the F3 championship.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325121639" stop="20170325124045">
+  <programme channel="hls.redbulltv" start="20170327181804" stop="">
     <title>Los Angeles</title>
     <sub-title>After the Raves S1 E1</sub-title>
     <desc>Tommie visits with Dirty South, 12th Planet and The Gaslamp Killer in Los Angeles.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325124134" stop="20170325125557">
+  <programme channel="hls.redbulltv" start="20170327184310" stop="">
     <title>The Inspiration</title>
     <sub-title>Inside the Fourth Phase  S1 E1</sub-title>
     <desc>Travis Rice and the Fourth Phase crew talk about the poetic spark that set the whole epic project in motion.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325125646" stop="20170325130302">
-    <title>Donner Partying</title>
-    <sub-title>Cody Webb &amp; Taylor Robert</sub-title>
-    <desc>Two MX riders tear up Donner Ski Ranch’s offseason in this stunning display of backcountry trials riding.</desc>
-  </programme>
-  <programme channel="hls.redbulltv" start="20170325130321" stop="20170325130505">
+  <programme channel="hls.redbulltv" start="20170327185852" stop="">
     <title>Totaled: Red Bull Mind Gamers</title>
     <sub-title>Red Bull Mind Gamers 2017</sub-title>
     <desc>After months of qualifiers, 22 teams from 24 countries battle for the title of Global Escape Room Champions.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325130505" stop="20170325135728">
+  <programme channel="hls.redbulltv" start="20170327190037" stop="">
     <title>Waves for Water</title>
     <sub-title>Clean Water is His Life's Purpose</sub-title>
     <desc>A troubled ex-pro surfer stumbles upon a new calling, bringing clean water to parts of the world most in need.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325135729" stop="20170325144210">
+  <programme channel="hls.redbulltv" start="20170327195300" stop="">
     <title>Method Movie </title>
     <sub-title>Snowboarding At Its Rawest</sub-title>
     <desc>Method Mag’s inaugural film is a throwback to snowboarding’s gritty beginnings featuring today’s top talent.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325144010" stop="20170325145618">
+  <programme channel="hls.redbulltv" start="20170327203541" stop="">
     <title>The End of an Era</title>
     <sub-title>Diggin' in the Carts S1 E6</sub-title>
     <desc>The arrival of 32-bit systems marked the end of the chiptune era, but opened up new limitless possibilities.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325145657" stop="20170325152208">
+  <programme channel="hls.redbulltv" start="20170327205228" stop="">
     <title>Twitch</title>
     <sub-title>The Ripple Effect S2 E1</sub-title>
     <desc>From high school friends to pioneers of eSports, Justin Kan and Emmett Shear changed the game with Twitch TV.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325152317" stop="20170325152643">
+  <programme channel="hls.redbulltv" start="20170327211858" stop="">
     <title>Spooky Kids: Music Video</title>
     <sub-title>Itch</sub-title>
     <desc>Featuring a group of masked homeless youths, Itch's latest video seems a modern homage to A Clockwork Orange.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325152644" stop="20170325154835">
+  <programme channel="hls.redbulltv" start="20170327212225" stop="">
     <title>The Regina Monologues</title>
     <sub-title>McMorris &amp; McMorris S1 E1</sub-title>
     <desc>Mark and Craig have time for one more party before they head to the X Games in Aspen, Colorado, United States.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325154953" stop="20170325155526">
+  <programme channel="hls.redbulltv" start="20170327214505" stop="">
     <title>The Mispers</title>
     <sub-title>Stripped Sessions S1 E2</sub-title>
     <desc>The Mispers pare things back with acoustic performances of tracks “Reach” and “Weekend.”</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325155527" stop="20170325160341">
+  <programme channel="hls.redbulltv" start="20170327215139" stop="">
     <title>The Search for Balance</title>
     <sub-title>Cultivation S1 E4</sub-title>
     <desc>During his training in Japan, Snake Eyez takes a hard loss to a player called AiAi.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325160342" stop="20170325162843">
-    <title>Beast of the Southern Wild</title>
-    <sub-title>Life At The Extreme S1 E26</sub-title>
-    <desc>Among the few people to explore the Southern Ocean, the crews help gather data for scientific research.</desc>
+  <programme channel="hls.redbulltv" start="20170327215953" stop="">
+    <title>Cold Sweat</title>
+    <sub-title>Life At The Extreme S1 E27</sub-title>
+    <desc>Before they reach the legendary Cape Horn, the crews must endure the ice-cold weather of the Southern Ocean.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325162933" stop="20170325164108">
-    <title>Victory Lap</title>
-    <sub-title>Who is JOB S4 E10</sub-title>
-    <desc>From Supsquatch to Sand Skis to Fire Barrels, Jamie looks back at all the classic moments from this season.</desc>
+  <programme channel="hls.redbulltv" start="20170327222501" stop="">
+    <title>Waimea: X-Factor of Fun</title>
+    <sub-title>Who is JOB S5 E1</sub-title>
+    <desc>Jamie O'Brien and crew ride the "The X-Factor of Fun," the Waimea River, a place where anything can happen. </desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325164058" stop="20170325170648">
-    <title>F1 Show Run Salt Challenge</title>
-    <sub-title>Red Bull Show Run 2012</sub-title>
-    <desc>Salt flies in northern Argentina as the team's F1 car rips across the salt flats of Salinas Grandes.</desc>
+  <programme channel="hls.redbulltv" start="20170327223319" stop="">
+    <title>Way Back Home</title>
+    <sub-title>Back to the Stomping Grounds</sub-title>
+    <desc>Danny MacAskill documents his trip from Edinburgh to Skye as he works on filming a new action film project.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325170737" stop="20170325171528">
-    <title>Adventures in OZ</title>
-    <sub-title>Sheckler Sessions S3 E4</sub-title>
-    <desc>Robbie Maddison takes Ryan out for some dirtbike racing and wakesurfing as the Australia trip moves to Syndey.</desc>
+  <programme channel="hls.redbulltv" start="20170327230012" stop="">
+    <title>Shredding Down Under</title>
+    <sub-title>Sheckler Sessions S3 E5</sub-title>
+    <desc>Ryan, Corbin Harris, and Ryder Lawson jam around Sydney, grab some custom sunglasses, and shoot some hoops.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325171529" stop="20170325172327">
-    <title>Crankworx Whistler</title>
-    <sub-title>Life Behind Bars S1 E10</sub-title>
-    <desc>Brandon is among the world’s top slopestyle riders at Whistler for the biggest Crankworx event of the year.</desc>
+  <programme channel="hls.redbulltv" start="20170327230844" stop="">
+    <title>Drifting Crown Range</title>
+    <sub-title>Mad Mike in NZ</sub-title>
+    <desc>With road closure signs in place, NZ-based drifter “Mad Mike” Whiddett has an open road to conquer the Crown.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325172312" stop="20170325173648">
-    <title>Running in Two Worlds</title>
-    <sub-title>A Story of Two Ultrarunners</sub-title>
-    <desc>Two ultramarathoners from very different cultures come together to train for the Wings for Life World Run.</desc>
+  <programme channel="hls.redbulltv" start="20170327231158" stop="">
+    <title>Joyride Jitters</title>
+    <sub-title>Life Behind Bars S1 E11</sub-title>
+    <desc>Brandon gives it his all at Red Bull Joyride, the crown jewel of Crankworx Whistler.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325173753" stop="20170325174223">
-    <title>When I Go: Music Video</title>
-    <sub-title>Let's Be Frank: BTS</sub-title>
-    <desc>Ben Harper's bluesy, brooding song "When I Go" from the film's soundtrack gets a gritty video accompaniment.</desc>
+  <programme channel="hls.redbulltv" start="20170327232412" stop="">
+    <title>Disco Demolition</title>
+    <sub-title>The Note S1 E4</sub-title>
+    <desc>A Chicago DJ unwittingly starts a dance music revolution with one of radio's most infamous publicity stunts.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325174224" stop="20170325180349">
-    <title>May the Darts be With You</title>
-    <sub-title>Drake's Passage S1 E5</sub-title>
-    <desc>Drake meets an expert darts player, a fixed-bike customizer, and judges an X-Fighters event while in London.</desc>
+  <programme channel="hls.redbulltv" start="20170327233934" stop="">
+    <title>When in Rome</title>
+    <sub-title>Drake's Passage S1 E6</sub-title>
+    <desc>In Italy, Drake visits Ducati, ventures to an ancient necropolis on horseback, and attends gladiator school.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325180933" stop="20170325181806">
-    <title>Step into the Limelight</title>
-    <sub-title>Max Verstappen: The Next Generation S1 E1</sub-title>
-    <desc>After dominating the karting world, Max faces his first F1 test in Rotterdam with thousands watching.</desc>
+  <programme channel="hls.redbulltv" start="20170328000232" stop="">
+    <title>Monday, March 27</title>
+    <sub-title>BULLETPOINTS S2 E73</sub-title>
+    <desc>Meet Markus Keller, aka the Chamäleon, and get to know Austria’s most successful motorbike team.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325181806" stop="20170325184500">
-    <title>Human-Powered Flight</title>
-    <sub-title>A History Of... S1 E2</sub-title>
-    <desc>A marketing slogan inspires the creation of the premier human-powered aviation contest.</desc>
+  <programme channel="hls.redbulltv" start="20170328000732" stop="">
+    <title>Cascamorras</title>
+    <sub-title>Archaic Festivals S1 E2</sub-title>
+    <desc>For over 500 years, an epic battle has raged between the Spanish towns of Guadix and Baza over a holy statue.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325184554" stop="20170325185610">
-    <title>Epecuén</title>
-    <sub-title>A Venture Into the Ruins</sub-title>
-    <desc>Danny MacAskill explores the lost Argentinian town that has been submerged for most of the past 25 years.</desc>
+  <programme channel="hls.redbulltv" start="20170328010044" stop="">
+    <title>Wired</title>
+    <sub-title>The Ripple Effect S2 E2</sub-title>
+    <desc>A group of technophiles fuse art, design, and technology to become the mouthpiece of the digital revolution.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325185653" stop="20170325190222">
-    <title>Tracking the Sun</title>
-    <sub-title>The Wizard of Nairobi S1 E3</sub-title>
-    <desc>Dominic devises a way to triple the efficiency of a standard solar panel.</desc>
+  <programme channel="hls.redbulltv" start="20170328012715" stop="">
+    <title>Wide Open &amp; Flat Out</title>
+    <sub-title>4 Below Zero S1 E2</sub-title>
+    <desc>Dean Moriarity, a Montreal native, looks to take his first ever victory on home ice.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325190223" stop="20170325190425">
-    <title>Freerunning in Rome</title>
-    <sub-title>Travel Story S1 E1</sub-title>
-    <desc>Ryan goes on a freerun through Rome, meeting its people and exploring its architecture along the way.</desc>
+  <programme channel="hls.redbulltv" start="20170328013609" stop="">
+    <title>Coco Nogales</title>
+    <sub-title>Peaking S1 E6</sub-title>
+    <desc>As a huge swell approaches his hometown, Coco Nogales prepares to chase down that perfect wave.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325190425" stop="20170325195544">
-    <title>Rich + Tone: PolyRhythmic</title>
-    <sub-title>The Talauega Brothers</sub-title>
-    <desc>Choreography team Rich + Tone take it back to their roots as they talk about their career in the dance world.</desc>
+  <programme channel="hls.redbulltv" start="20170328015753" stop="">
+    <title>CHAMäLEON</title>
+    <sub-title>The Colours of Snowboarding</sub-title>
+    <desc>Swiss legend Markus Keller seamlessly adapts his style from the streets to the backcountry mountains and back.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325195730" stop="20170325200319">
-    <title>Don't Call It #BlogPop</title>
-    <sub-title>Hashtags S1 E6</sub-title>
-    <desc>Shattering old musical classifications, the Internet’s accessibility has redefined the concept of “pop music.”</desc>
+  <programme channel="hls.redbulltv" start="20170328022341" stop="">
+    <title>The Cave</title>
+    <sub-title>Precise Planning Meets Perfect Skill</sub-title>
+    <desc>Felix Baumgartner attempts one of the most remarkable stunts of his career — BASE jumping into a narrow cave.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325200320" stop="20170325205336">
-    <title>Let's Be Frank</title>
-    <sub-title>The Double Life of Frank James Solomon</sub-title>
-    <desc>Returning to Red Bull TV January 4! Who is Frank Solomon? The man and the myth might just be inseparable.</desc>
+  <programme channel="hls.redbulltv" start="20170328032131" stop="">
+    <title>The Ultimate Race Week</title>
+    <sub-title>On Pace with Pastrana S1 E6</sub-title>
+    <desc>From New Hampshire to Ontario and back down to Chicago, Travis begins the busiest race week of the year.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325205326" stop="20170325211617">
-    <title>X Games Rallycross</title>
-    <sub-title>On Pace with Pastrana S1 E5</sub-title>
-    <desc>Travis and Bryce Menzies work on fine-tuning the Dodge Dart at the Auto Club Speedway in Fontana, California.</desc>
+  <programme channel="hls.redbulltv" start="20170328034511" stop="">
+    <title>Two Wheeled Wonders</title>
+    <sub-title>Worldies S1 E10</sub-title>
+    <desc>From pedal power to horsepower, these top five biking superstars are the world’s best on two wheels.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325211734" stop="20170325213004">
-    <title>Airborne Magic</title>
-    <sub-title>Worldies S1 E6</sub-title>
-    <desc>Take to the skies in this top five countdown of vertigo-inducing stunts that require a head for heights.</desc>
+  <programme channel="hls.redbulltv" start="20170328035754" stop="">
+    <title>Monday, March 27</title>
+    <sub-title>BULLETPOINTS S2 E73</sub-title>
+    <desc>Meet Markus Keller, aka the Chamäleon, and get to know Austria’s most successful motorbike team.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325212952" stop="20170325215353">
-    <title>Wheels on Water</title>
-    <sub-title>Ultimate Rush S5 E6</sub-title>
-    <desc>Robbie Maddison is a master of motocross on land. Now, he takes his bike to one of the globe's heaviest waves.</desc>
+  <programme channel="hls.redbulltv" start="20170328040254" stop="">
+    <title>Ready to Race</title>
+    <sub-title>KTM Goes MotoGP™</sub-title>
+    <desc>Austria’s most successful motorbike racing team makes the jump into MotoGP, the pinnacle motorcycle racing.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325215458" stop="20170325220323">
-    <title>Tests, Allies &amp; Rivals</title>
-    <sub-title>Cultivation S1 E2</sub-title>
-    <desc>Learn how much knowledge and preparation goes into a game of Street Fighter as Snake Eyez continues his quest.</desc>
+  <programme channel="hls.redbulltv" start="20170328045013" stop="">
+    <title>Tommy Guns</title>
+    <sub-title>We Are All Stories S1 E3</sub-title>
+    <desc>After an unexpected pain in his leg, b-boy Tommy Guns must overcome the life-altering diagnosis of cancer.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325220323" stop="20170325222917">
-    <title>Heavy Lines &amp; Desert Drops</title>
-    <sub-title>A History Of... S1 E4</sub-title>
-    <desc>The story of renegades who changed the course of mountain biking and redefined what's possible on two wheels.</desc>
+  <programme channel="hls.redbulltv" start="20170328045534" stop="">
+    <title>Natural Chill</title>
+    <sub-title>The Wizard of Nairobi S1 E4</sub-title>
+    <desc>Dominic and his Evapocooler provide farmers with a much-needed way to preserve their crops.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325223019" stop="20170325224541">
-    <title>E.A.T.</title>
-    <sub-title>The Note S1 E3</sub-title>
-    <desc>The Experiments in Art and Technology movement of the 1960s and ‘70s revolutionized both art and engineering.</desc>
+  <programme channel="hls.redbulltv" start="20170328050103" stop="">
+    <title>Where the Trail Ends</title>
+    <sub-title>The Only Limit Is Your Imagination</sub-title>
+    <desc>Discover some of the wildest landscapes that have never seen tire tracks in this freeriding MTB adventure.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170325224620" stop="20170326000329">
-    <title>The Art of Flight</title>
-    <sub-title>The World's Most Progressive Snowboard Film</sub-title>
-    <desc>Travis Rice and Curt Morgan's follow-up to "That's It, That's All" raises the bar of snowboarding, again.</desc>
+  <programme channel="hls.redbulltv" start="20170328061708" stop="">
+    <title>The Rise</title>
+    <sub-title>Martin Söderström Ride to Recovery Part II</sub-title>
+    <desc>Martin Söderström has gotten himself physically ready to compete again, but that's only half the battle.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326000350" stop="20170326001136">
+  <programme channel="hls.redbulltv" start="20170328062229" stop="">
+    <title>Re-Entry</title>
+    <sub-title>The Break Boys  S1 E3</sub-title>
+    <desc>Kid David and Luigi return from working the Justin Bieber tour and perform at Break L.A. with Casper as MC.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328064846" stop="">
+    <title>Taking Shape</title>
+    <sub-title>MacAskill's Imaginate S1 E2</sub-title>
+    <desc>Danny starts a perfomance program with his rehab trainer, first in the gym and progressing to his bike.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328070413" stop="">
+    <title>The Bohicas</title>
+    <sub-title>Stripped Sessions S1 E3</sub-title>
+    <desc>The Bohicas perform exclusive stripped-down versions of "Swarm" and "Where You At."</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328070903" stop="">
+    <title>Unseen</title>
+    <sub-title>URBEX: Enter At Your Own Risk S1 E7</sub-title>
+    <desc>Not all urbex is about scaling the tallest buildings — many seek out the hidden sides of their cities.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328075727" stop="">
+    <title>Make a Beast of Myself: Music Video</title>
+    <sub-title>Twin Atlantic</sub-title>
+    <desc>A busy street reacts to an unseen monster in this masterful single-shot video, from their album Free.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328080117" stop="">
+    <title>Monday, March 27</title>
+    <sub-title>BULLETPOINTS S2 E73</sub-title>
+    <desc>Meet Markus Keller, aka the Chamäleon, and get to know Austria’s most successful motorbike team.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328080617" stop="">
+    <title>Back to His Roots</title>
+    <sub-title>Max Verstappen: The Next Generation S1 E5</sub-title>
+    <desc>Max takes time off from his F1 preparation to get back to his roots: go-karting.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328081428" stop="">
+    <title>Harlem River Drive</title>
+    <sub-title>The Note S1 E2</sub-title>
+    <desc>Eddie Palmieri brought a distinct brand of funk and activism to New York City in an era of revolution.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328082902" stop="">
+    <title>Spring Broken</title>
+    <sub-title>McMorris &amp; McMorris S1 E2</sub-title>
+    <desc>After Mark competes at the US Open, the crew takes an unforgettable spring break vacation in Cancun, Mexico.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328085147" stop="">
+    <title>Man vs. Nature</title>
+    <sub-title>Worldies S1 E8</sub-title>
+    <desc>This top five countdown honors both Mother Nature's awe-inspiring beauty and incredible destructive power.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328090455" stop="">
+    <title>The Science Behind Escape Rooms</title>
+    <sub-title>Red Bull Mind Gamers 2017</sub-title>
+    <desc>Cognitive neuroscientist Carola Salvi explains the unique effects escape rooms have on their participants.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328091111" stop="">
+    <title>F1 Show Run in Hyderabad</title>
+    <sub-title>Red Bull Show Run 2015</sub-title>
+    <desc>With no stop in India on the F1 circuit, this show run brings an F1 car in action to India.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328091340" stop="">
+    <title>Game Loading</title>
+    <sub-title>Rise of the Indies</sub-title>
+    <desc>Disrupting the big-budget games industry, indie developers have forever impacted the world of video games.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328104534" stop="">
+    <title>The Challenge</title>
+    <sub-title>Inside the Fourth Phase  S1 E2</sub-title>
+    <desc>The filmmakers discuss the immense pressure to raise the bar on snowboard films while telling a good story.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328110154" stop="">
+    <title>Pika Booya</title>
+    <sub-title>Brothers on the Run S1 E2</sub-title>
+    <desc>The guys surf frozen waves in Homer before going to the Pika glacier for camping and shredding.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328112535" stop="">
+    <title>Don't Call It #Tumblrwave</title>
+    <sub-title>Hashtags S1 E5</sub-title>
+    <desc>Microblogging site Tumblr has given a voice to a wide variety of artists in its short history.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328113255" stop="">
+    <title>F1 Show Run in the Snow</title>
+    <sub-title>Red Bull Racing Show Run 2016</sub-title>
+    <desc>Scuderia Toro Rosso driver Max Verstappen drives a Formula 1 car around an icy ski hill in Austria.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328114952" stop="">
+    <title>Ordeal, Death &amp; Rebirth?</title>
+    <sub-title>Cultivation S1 E6</sub-title>
+    <desc>Snake Eyez looks back at the Capcom Cup 2015 and to the future, with Street Fighter V close to release.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328115920" stop="">
+    <title>Monday, March 27</title>
+    <sub-title>BULLETPOINTS S2 E73</sub-title>
+    <desc>Meet Markus Keller, aka the Chamäleon, and get to know Austria’s most successful motorbike team.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328120453" stop="">
     <title>Teammates &amp; New Cars</title>
     <sub-title>Max Verstappen: The Next Generation S1 E6</sub-title>
     <desc>Just weeks away from making history, Max meets his new Toro Rosso teammates and finally tests his own F1 car.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326001136" stop="20170326002327">
+  <programme channel="hls.redbulltv" start="20170328121239" stop="">
     <title>The Toughest Challenges</title>
     <sub-title>Worldies S1 E9</sub-title>
     <desc>These five Red Bull challenges are conquered only by a gritty few who redefine what it means to be tough.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326002316" stop="20170326004914">
+  <programme channel="hls.redbulltv" start="20170328122419" stop="">
     <title>Ground Effect</title>
     <sub-title>Formula 1 Returns to Mexico</sub-title>
     <desc>After 23 years away, Formula 1 returns to Mexico City’s legendary Autodromo Hermanos Rodriguez track.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326005104" stop="20170326010124">
+  <programme channel="hls.redbulltv" start="20170328125108" stop="">
     <title>Reflect</title>
     <sub-title>Cultivation S2 E2</sub-title>
     <desc>Leffen reflects on his rocky past as he prepares for his upcoming trip to Canada.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326010124" stop="20170326014604">
+  <programme channel="hls.redbulltv" start="20170328130128" stop="">
     <title>The History of the Pit Stop</title>
     <sub-title>Gone in Two Seconds</sub-title>
     <desc>The mavericks who pioneered the modern pit stop made it a raceday staple that takes less than two seconds.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326014822" stop="20170326021416">
+  <programme channel="hls.redbulltv" start="20170328134856" stop="">
     <title>Live Magazine</title>
     <sub-title>+27: Social Innovators of South Africa S1 E6</sub-title>
     <desc>Young people interested in the media create a publication from start to finish at Cape Town's Live Magazine.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326021528" stop="20170326022337">
+  <programme channel="hls.redbulltv" start="20170328141532" stop="">
     <title>The Fall </title>
     <sub-title>Martin Söderström Ride to Recovery Part I</sub-title>
     <desc>The story of Martin Söderström's career-threatening injury and his fight to get back on top of his game.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326022337" stop="20170326024711">
+  <programme channel="hls.redbulltv" start="20170328142341" stop="">
     <title>Om’Mas Keith: Across the Board</title>
     <sub-title>From Hollis To Hollywood</sub-title>
     <desc>The story of Om’Mas Keith's journey from humble Queens upbringing to Grammy® Award winning producer.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326024826" stop="20170326030937">
+  <programme channel="hls.redbulltv" start="20170328144736" stop="">
     <title>Belief</title>
     <sub-title>Focus S2 E1</sub-title>
     <desc>America's Cup sailor James Spithill and Paralympian Kelly Cartwright prove the strength of the human spirit.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326031110" stop="20170326033537">
+  <programme channel="hls.redbulltv" start="20170328150950" stop="">
     <title>Onekotan: The Lost Island</title>
     <sub-title>Explorers: Adventures of the Century S4 E7</sub-title>
     <desc>A group of intrepid professional skiers risk everything to ski the remote and desolate island of Onekotan.</desc>
   </programme>
-  <programme channel="hls.redbulltv" start="20170326033643" stop="20170326040232">
+  <programme channel="hls.redbulltv" start="20170328153523" stop="">
     <title>San Francisco</title>
     <sub-title>After the Raves S1 E2</sub-title>
     <desc>In San Francisco, EDM is a blend of technology and art for musicians like DJ Chuckie, Hardkiss and M Machine.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328160202" stop="">
+    <title>Cold Sweat</title>
+    <sub-title>Life At The Extreme S1 E27</sub-title>
+    <desc>Before they reach the legendary Cape Horn, the crews must endure the ice-cold weather of the Southern Ocean.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328162710" stop="">
+    <title>Waimea: X-Factor of Fun</title>
+    <sub-title>Who is JOB S5 E1</sub-title>
+    <desc>Jamie O'Brien and crew ride the "The X-Factor of Fun," the Waimea River, a place where anything can happen. </desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328163527" stop="">
+    <title>Way Back Home</title>
+    <sub-title>Back to the Stomping Grounds</sub-title>
+    <desc>Danny MacAskill documents his trip from Edinburgh to Skye as he works on filming a new action film project.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328170220" stop="">
+    <title>Shredding Down Under</title>
+    <sub-title>Sheckler Sessions S3 E5</sub-title>
+    <desc>Ryan, Corbin Harris, and Ryder Lawson jam around Sydney, grab some custom sunglasses, and shoot some hoops.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328171019" stop="">
+    <title>Joyride Jitters</title>
+    <sub-title>Life Behind Bars S1 E11</sub-title>
+    <desc>Brandon gives it his all at Red Bull Joyride, the crown jewel of Crankworx Whistler.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328172243" stop="">
+    <title>Disco Demolition</title>
+    <sub-title>The Note S1 E4</sub-title>
+    <desc>A Chicago DJ unwittingly starts a dance music revolution with one of radio's most infamous publicity stunts.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328173705" stop="">
+    <title>When in Rome</title>
+    <sub-title>Drake's Passage S1 E6</sub-title>
+    <desc>In Italy, Drake visits Ducati, ventures to an ancient necropolis on horseback, and attends gladiator school.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328180423" stop="">
+    <title>The Macau Grand Prix</title>
+    <sub-title>Max Verstappen: The Next Generation S1 E4</sub-title>
+    <desc>As his first F1 race approaches, Max trains his body to withstand the rigors of professional driving.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328181241" stop="">
+    <title>Wakeboard in Patagonia</title>
+    <sub-title>Writing the New Chapter</sub-title>
+    <desc>Four wakeboarders set out to make history in an attempt to ride the glacier filled waters of Patagonia.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328182605" stop="">
+    <title>Tundra Trial</title>
+    <sub-title>Dougie Lampkin</sub-title>
+    <desc>English trials master Dougie Lampkin brings his craft to the enchanting arctic landscape of Northern Finland.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328183212" stop="">
+    <title>The Grind</title>
+    <sub-title>The Break Boys  S1 E2</sub-title>
+    <desc>The guys get serious about practice, but a last-minute job offer sends the group in two different directions.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328185557" stop="">
+    <title>Totaled: Escape Rooms</title>
+    <sub-title>Red Bull Mind Gamers 2017</sub-title>
+    <desc>Unlock the numbers behind one of the globe's hottest new trends: the competitive world of escape room games.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328185806" stop="">
+    <title>Recap: Ottawa, Canada</title>
+    <sub-title>Red Bull Crashed Ice 2017</sub-title>
+    <desc>The Canadian capital hosts Red Bull Crashed Ice for the first time in the finale of the 2017 season.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328195257" stop="">
+    <title>La Vida Loca</title>
+    <sub-title>Worldies S1 E7</sub-title>
+    <desc>Get ready for a dose of Latin flavor with this top five countdown of events from Central and South America.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328200608" stop="">
+    <title>Fandom</title>
+    <sub-title>The Fantasy Football Movie</sub-title>
+    <desc>Christian Slater narrates a look inside the massive phenomenon of fantasy football.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328213849" stop="">
+    <title>Beaten in Lips: Music Video</title>
+    <sub-title>Bear Tooth</sub-title>
+    <desc>Mixing an escapist house party with an anthem for troubled youths yields...explosive...results.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328214211" stop="">
+    <title>The Road Back</title>
+    <sub-title>Cultivation S1 E5</sub-title>
+    <desc>Snake Eyez is back home in Los Angeles. Now it's time to see the fruits of his labor at the 2015 Capcom Cup.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328215037" stop="">
+    <title>Hold On: Music Video</title>
+    <sub-title>Twin Atlantic</sub-title>
+    <desc>Twin Atlantic paints a picture of young love gone awry and a dramatic race against time for reconciliation.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328215456" stop="">
+    <title>Balance</title>
+    <sub-title>Kenny Belaey</sub-title>
+    <desc>Even a trial bike world champion needs all his skill to ride across a slackline 120m high in the French Alps.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328215919" stop="">
+    <title>Cape Fear</title>
+    <sub-title>Life At The Extreme S1 E28</sub-title>
+    <desc>The fleet is pushed to the limit as the teams round the southern tip of South America.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328222455" stop="">
+    <title>Tandem Kayaks &amp; Pipeline</title>
+    <sub-title>Who is JOB S5 E2</sub-title>
+    <desc>Pipeline is pulsing, so Jamie O'Brien rips it to shreds before trying some tandem kayaking at Sunset Beach.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328223334" stop="">
+    <title>Surfing Antarctica</title>
+    <sub-title>Ramón Navarro</sub-title>
+    <desc>Big wave surfer Ramón Navarro attempts to be the first person to ride the giant waves of Antarctica. </desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328225842" stop="">
+    <title>Go Skateboarding Day</title>
+    <sub-title>Sheckler Sessions S3 E6</sub-title>
+    <desc>Go Skateboarding Day brings Ryan and the Red Bull Skate Team to Seattle, where they unveil a skate sculpture.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328230619" stop="">
+    <title>50 Years of Style</title>
+    <sub-title>Generations of Freeskiing: BTS</sub-title>
+    <desc>Celebrate 50 years of style with this historical huck reel. From ski ballet to GoPro lines, it's all here.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328231131" stop="">
+    <title>Sand and Ferns</title>
+    <sub-title>Life Behind Bars S1 E12</sub-title>
+    <desc>After Crankworx, Brandon heads down to Oregon for some downhill riding and dune-buggy racing.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328232210" stop="">
+    <title>MtXRW: Going Down Slow</title>
+    <sub-title>Miles Above S1 E4</sub-title>
+    <desc>Mike Swanson leads a tricky formation of wingsuit flyers and a canopy skydiver in the Swiss Alps.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170328233131" stop="">
+    <title>Los Angeles</title>
+    <sub-title>Your Street My Stage S1 E1</sub-title>
+    <desc>Before they hit the big venues around town, much of Los Angeles’ talent can be found on its city streets.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170329000519" stop="">
+    <title>Citadel</title>
+    <sub-title>Explorers: Adventures of the Century S4 E8</sub-title>
+    <desc>Two veteran alpinists tackle a never-before-climbed route on the remote 3,000m Alaskan peak The Citadel.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170329003040" stop="">
+    <title>Water: Can You Dig It?</title>
+    <sub-title>The Wizard of Nairobi S1 E5</sub-title>
+    <desc>Dominic develops a drill that brings water to Kenya’s residents while preserving its natural habitat.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170329003608" stop="">
+    <title>Progression</title>
+    <sub-title>Focus S2 E2</sub-title>
+    <desc>Olympic triathlete Courtney Atkinson and freerunner Ryan Doyle are on quests to push their sports forward.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170329005906" stop="">
+    <title>Season Recap: Old and New</title>
+    <sub-title>Crankworx Triple Crown of Slopestyle 2016</sub-title>
+    <desc>It was a year of big progression from the sport’s established stars as well as a dynamic group of youngsters.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170329015344" stop="">
+    <title>Duece</title>
+    <sub-title>We Are All Stories S1 E5</sub-title>
+    <desc>Krumper Duece broke free from the oppressive inner city streets by finding self-expression through dance.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170329015835" stop="">
+    <title>Let It Ride</title>
+    <sub-title>Craig Kelly: Snowboarding's First Ambassador</sub-title>
+    <desc>The story of Craig Kelly is the story of snowboarding: rambunctious, raw, and totally revolutionary.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170329032725" stop="">
+    <title>Perfect Space</title>
+    <sub-title>MacAskill's Imaginate S1 E3</sub-title>
+    <desc>It's a once-in-a-lifetime honor for Danny MacAskill as he rides the Olympic Torch through Glasgow.</desc>
+  </programme>
+  <programme channel="hls.redbulltv" start="20170329034134" stop="">
+    <title>Grounded</title>
+    <sub-title>Motorkite Dreaming S1 E4</sub-title>
+    <desc>Things go from bad to worse as wild weather and Daryl's costly mistakes leave the group facing hard choices.</desc>
   </programme>
 </tv>
