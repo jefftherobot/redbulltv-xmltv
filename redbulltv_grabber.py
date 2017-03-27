@@ -9,7 +9,7 @@ items = xml.findall('.//twoLineMenuItem')
 
 w = xmltv.Writer()
 
-l = len(items)
+w.addChannel({'display-name': [(u'Red Bull TV', u'en')],'id': u'hls.redbulltv'})
 
 for i, element in enumerate(items):
     programme = {"channel":'hls.redbulltv', "title":[], "sub-title":[], "desc":[], "start":'', "stop":''}
@@ -31,28 +31,29 @@ for i, element in enumerate(items):
     # Set end has start to calculate duration from
     end = ''
 
-    if i < (l - 1):
+    if i < (len(items) - 1):
         #End this program at the start of the next program
         end = items[i + 1].find('.//rightLabel').text
         if end is not None:
             end = datetime.utcfromtimestamp(float(end))
         else:
             end = datetime.utcnow()
-
-    # if element.find('.//footnote') is not None:
-    #     end = element.find('.//footnote').text
-    #     if end is not None:
-    #         duration = end.replace('Duration: ', '')
-    #         duration = duration.split(',')
-    #         totalDuration = start
-    #         for i in duration:
-    #             if 'hour' in i:
-    #                 totalDuration = totalDuration + timedelta(hours=int(re.sub(r' hours?', "",i)))
-    #             elif 'minute' in i:
-    #                 totalDuration = totalDuration + timedelta(minutes=int(re.sub(r' minutes?', "", i)))
-    #             elif 'second' in i:
-    #                 totalDuration = totalDuration + timedelta(seconds=int(re.sub(r' seconds?', "", i)))
-    #         end = totalDuration
+    else:
+        #This is the last program, so use duraction to calculate end
+        if element.find('.//footnote') is not None:
+            end = element.find('.//footnote').text
+            if end is not None:
+                duration = end.replace('Duration: ', '')
+                duration = duration.split(',')
+                totalDuration = start
+                for i in duration:
+                    if 'hour' in i:
+                        totalDuration = totalDuration + timedelta(hours=int(re.sub(r' hours?', "",i)))
+                    elif 'minute' in i:
+                        totalDuration = totalDuration + timedelta(minutes=int(re.sub(r' minutes?', "", i)))
+                    elif 'second' in i:
+                        totalDuration = totalDuration + timedelta(seconds=int(re.sub(r' seconds?', "", i)))
+                end = totalDuration
 
     summary = ''
     if element.find('.//summary') is not None:
@@ -62,7 +63,7 @@ for i, element in enumerate(items):
     programme["sub-title"] = [(label2, u'')]
     programme["desc"] = [(summary, u'')]
     programme["start"] = start.strftime('%Y%m%d%H%M%S%z')
-    #programme["stop"] = end.strftime('%Y%m%d%H%M%S%z')
+    programme["stop"] = end.strftime('%Y%m%d%H%M%S%z')
 
     # print(programme)
 
