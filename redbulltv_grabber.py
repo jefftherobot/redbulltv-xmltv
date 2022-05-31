@@ -1,7 +1,7 @@
 import sys, re, urllib.request, xmltv, xml.etree.ElementTree as ET
 from datetime import datetime, date, time, timedelta
 
-BASE_URL = "https://appletv-v2.redbull.tv/views/tv"
+BASE_URL = "https://appletv.redbull.tv/products/tv"
 request = urllib.request.Request(BASE_URL, headers={"Accept" : "application/xml"})
 response = urllib.request.urlopen(request)
 xml = ET.parse(response)
